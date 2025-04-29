@@ -27,4 +27,3 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
           python ./main.py
-      - uses: gautamkrishnar/keepalive-workflow@master
